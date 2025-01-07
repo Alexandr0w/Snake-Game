@@ -11,4 +11,4 @@ Structured game with Core, GameObjects, Intefaces, Enums and Utilities.<br><br>
 When you touch the walls of the field it is game over. You can restart by pressing 'Y'.<br><br>
 
 Here you can view screenshot of the game:<br>
-<img src="images/game.png" alt="Snake Game"</img>
+<img src="images/game.png" alt="Snake Game"/>
